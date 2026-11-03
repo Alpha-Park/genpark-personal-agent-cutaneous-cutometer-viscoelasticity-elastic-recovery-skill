@@ -1,0 +1,18 @@
+{
+  "name": "genpark-personal-agent-cutaneous-cutometer-viscoelasticity-elastic-recovery-skill",
+  "version": "1.0.0",
+  "description": "Calculates Cutometer skin deformation metrics (Ue, Uv, Uf, Ur) and elasticity ratios (R2 gross elasticity, R5 net elasticity, R6 viscoelastic ratio) to assess skin photoaging and dermal sclerosis.",
+  "author": "AlphaPark",
+  "license": "Apache-2.0",
+  "main": "client.py",
+  "mcp": "mcp_server.py",
+  "categories": [
+    "personal-agent",
+    "cutaneous",
+    "dermatology",
+    "cutometer",
+    "viscoelasticity",
+    "biomechanics"
+  ],
+  "dependencies": []
+}
